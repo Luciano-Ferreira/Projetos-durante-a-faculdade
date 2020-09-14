@@ -1,0 +1,12 @@
+C:\Users\Luciano\source\repos\Aula04\ExemplosExtras\GraphDisplay\GraficalDisplay\bin\Debug\GraficDisplay.exe
+C:\Users\Luciano\source\repos\Aula04\ExemplosExtras\GraphDisplay\GraficalDisplay\bin\Debug\GraficDisplay.pdb
+C:\Users\Luciano\source\repos\Aula04\ExemplosExtras\GraphDisplay\GraficalDisplay\bin\Debug\GraphLib.dll
+C:\Users\Luciano\source\repos\Aula04\ExemplosExtras\GraphDisplay\GraficalDisplay\bin\Debug\GraphLib.pdb
+C:\Users\Luciano\source\repos\Aula04\ExemplosExtras\GraphDisplay\GraficalDisplay\obj\Debug\GraficDisplay.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\Aula04\ExemplosExtras\GraphDisplay\GraficalDisplay\obj\Debug\GraficDisplay.MainForm.resources
+C:\Users\Luciano\source\repos\Aula04\ExemplosExtras\GraphDisplay\GraficalDisplay\obj\Debug\GraficDisplay.Properties.Resources.resources
+C:\Users\Luciano\source\repos\Aula04\ExemplosExtras\GraphDisplay\GraficalDisplay\obj\Debug\GraficDisplay.csproj.GenerateResource.cache
+C:\Users\Luciano\source\repos\Aula04\ExemplosExtras\GraphDisplay\GraficalDisplay\obj\Debug\GraficDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\Aula04\ExemplosExtras\GraphDisplay\GraficalDisplay\obj\Debug\GraficDisplay.csproj.CopyComplete
+C:\Users\Luciano\source\repos\Aula04\ExemplosExtras\GraphDisplay\GraficalDisplay\obj\Debug\GraficDisplay.exe
+C:\Users\Luciano\source\repos\Aula04\ExemplosExtras\GraphDisplay\GraficalDisplay\obj\Debug\GraficDisplay.pdb

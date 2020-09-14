@@ -1,0 +1,30 @@
+
+USE dbTeste
+GO
+
+IF object_id('dbo.fn_Funcao01') IS NOT NULL
+BEGIN
+    DROP FUNCTION dbo.fn_Funcao01
+END
+GO
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE FUNCTION fn_Funcao01
+(
+)
+RETURNS INT
+AS
+BEGIN
+	
+	DECLARE @Retorno  AS INTEGER
+	
+	Set @Retorno = (SELECT  (2 + 2)*3);
+	
+	RETURN @Retorno
+END
+GO
+

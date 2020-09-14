@@ -1,0 +1,4 @@
+C:\Unip\Projetos\POOII\Aula06\dllDbKernel\bin\Debug\dllDBKernel.dll
+C:\Unip\Projetos\POOII\Aula06\dllDbKernel\bin\Debug\dllDBKernel.pdb
+C:\Unip\Projetos\POOII\Aula06\dllDbKernel\obj\Debug\dllDBKernel.dll
+C:\Unip\Projetos\POOII\Aula06\dllDbKernel\obj\Debug\dllDBKernel.pdb

@@ -1,0 +1,9 @@
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\NumericUpDownEProgressBar\bin\Debug\NA019_NumericUpDownEProgressBar.exe
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\NumericUpDownEProgressBar\bin\Debug\NA019_NumericUpDownEProgressBar.pdb
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\NumericUpDownEProgressBar\obj\x86\Debug\NumericUpDownEProgressBar.csprojAssemblyReference.cache
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\NumericUpDownEProgressBar\obj\x86\Debug\NA019_NumericUpDownEProgressBar.frmNumericUpDownEProgressBar.resources
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\NumericUpDownEProgressBar\obj\x86\Debug\NA019_NumericUpDownEProgressBar.Properties.Resources.resources
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\NumericUpDownEProgressBar\obj\x86\Debug\NumericUpDownEProgressBar.csproj.GenerateResource.cache
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\NumericUpDownEProgressBar\obj\x86\Debug\NumericUpDownEProgressBar.csproj.CoreCompileInputs.cache
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\NumericUpDownEProgressBar\obj\x86\Debug\NA019_NumericUpDownEProgressBar.exe
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\NumericUpDownEProgressBar\obj\x86\Debug\NA019_NumericUpDownEProgressBar.pdb

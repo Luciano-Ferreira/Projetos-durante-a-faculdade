@@ -1,0 +1,16 @@
+C:\POO_II\Aulas\Aula04\Transacao\bin\Debug\Transacao.exe
+C:\POO_II\Aulas\Aula04\Transacao\bin\Debug\Transacao.pdb
+C:\POO_II\Aulas\Aula04\Transacao\obj\Debug\Transacao.FrmTransacao.resources
+C:\POO_II\Aulas\Aula04\Transacao\obj\Debug\Transacao.Properties.Resources.resources
+C:\POO_II\Aulas\Aula04\Transacao\obj\Debug\Transacao.csproj.GenerateResource.Cache
+C:\POO_II\Aulas\Aula04\Transacao\obj\Debug\Transacao.exe
+C:\POO_II\Aulas\Aula04\Transacao\obj\Debug\Transacao.pdb
+C:\Users\Luciano\source\repos\Aula04\Transacao\bin\Debug\Transacao.exe
+C:\Users\Luciano\source\repos\Aula04\Transacao\bin\Debug\Transacao.pdb
+C:\Users\Luciano\source\repos\Aula04\Transacao\obj\Debug\Transacao.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\Aula04\Transacao\obj\Debug\Transacao.FrmTransacao.resources
+C:\Users\Luciano\source\repos\Aula04\Transacao\obj\Debug\Transacao.Properties.Resources.resources
+C:\Users\Luciano\source\repos\Aula04\Transacao\obj\Debug\Transacao.csproj.GenerateResource.cache
+C:\Users\Luciano\source\repos\Aula04\Transacao\obj\Debug\Transacao.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\Aula04\Transacao\obj\Debug\Transacao.exe
+C:\Users\Luciano\source\repos\Aula04\Transacao\obj\Debug\Transacao.pdb

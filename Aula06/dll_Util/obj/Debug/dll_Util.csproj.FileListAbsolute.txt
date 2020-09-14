@@ -1,0 +1,6 @@
+C:\Users\Luciano\source\repos\Aula06\dll_Util\bin\Debug\UNIP.POOII.Util.dll
+C:\Users\Luciano\source\repos\Aula06\dll_Util\bin\Debug\UNIP.POOII.Util.pdb
+C:\Users\Luciano\source\repos\Aula06\dll_Util\obj\Debug\dll_Util.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\Aula06\dll_Util\obj\Debug\dll_Util.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\Aula06\dll_Util\obj\Debug\UNIP.POOII.Util.dll
+C:\Users\Luciano\source\repos\Aula06\dll_Util\obj\Debug\UNIP.POOII.Util.pdb

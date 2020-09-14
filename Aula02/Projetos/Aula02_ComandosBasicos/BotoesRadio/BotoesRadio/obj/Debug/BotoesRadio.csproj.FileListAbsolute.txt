@@ -1,0 +1,17 @@
+C:\Projetos\WinForm\BotoesRadio\BotoesRadio\bin\Debug\BotoesRadio.exe
+C:\Projetos\WinForm\BotoesRadio\BotoesRadio\bin\Debug\BotoesRadio.pdb
+C:\Projetos\WinForm\BotoesRadio\BotoesRadio\obj\Debug\BotoesRadio.csprojAssemblyReference.cache
+C:\Projetos\WinForm\BotoesRadio\BotoesRadio\obj\Debug\BotoesRadio.FrmTesteBotoesRadio.resources
+C:\Projetos\WinForm\BotoesRadio\BotoesRadio\obj\Debug\BotoesRadio.Properties.Resources.resources
+C:\Projetos\WinForm\BotoesRadio\BotoesRadio\obj\Debug\BotoesRadio.csproj.GenerateResource.cache
+C:\Projetos\WinForm\BotoesRadio\BotoesRadio\obj\Debug\BotoesRadio.csproj.CoreCompileInputs.cache
+C:\Projetos\WinForm\BotoesRadio\BotoesRadio\obj\Debug\BotoesRadio.exe
+C:\Projetos\WinForm\BotoesRadio\BotoesRadio\obj\Debug\BotoesRadio.pdb
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\BotoesRadio\BotoesRadio\bin\Debug\BotoesRadio.exe
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\BotoesRadio\BotoesRadio\bin\Debug\BotoesRadio.pdb
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\BotoesRadio\BotoesRadio\obj\Debug\BotoesRadio.FrmTesteBotoesRadio.resources
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\BotoesRadio\BotoesRadio\obj\Debug\BotoesRadio.Properties.Resources.resources
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\BotoesRadio\BotoesRadio\obj\Debug\BotoesRadio.csproj.GenerateResource.cache
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\BotoesRadio\BotoesRadio\obj\Debug\BotoesRadio.csproj.CoreCompileInputs.cache
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\BotoesRadio\BotoesRadio\obj\Debug\BotoesRadio.exe
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\BotoesRadio\BotoesRadio\obj\Debug\BotoesRadio.pdb

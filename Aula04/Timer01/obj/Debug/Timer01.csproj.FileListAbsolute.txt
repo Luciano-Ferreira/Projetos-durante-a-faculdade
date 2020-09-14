@@ -1,0 +1,7 @@
+C:\POO_II\Aulas\Aula04\Timer01\bin\Debug\Timer01.exe
+C:\POO_II\Aulas\Aula04\Timer01\bin\Debug\Timer01.pdb
+C:\POO_II\Aulas\Aula04\Timer01\obj\Debug\Timer01.FrmTimer01.resources
+C:\POO_II\Aulas\Aula04\Timer01\obj\Debug\Timer01.Properties.Resources.resources
+C:\POO_II\Aulas\Aula04\Timer01\obj\Debug\Timer01.csproj.GenerateResource.Cache
+C:\POO_II\Aulas\Aula04\Timer01\obj\Debug\Timer01.exe
+C:\POO_II\Aulas\Aula04\Timer01\obj\Debug\Timer01.pdb

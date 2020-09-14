@@ -1,0 +1,9 @@
+C:\Users\Luciano\source\repos\teste\ComboBox\bin\Debug\ComboBox.exe.config
+C:\Users\Luciano\source\repos\teste\ComboBox\bin\Debug\ComboBox.exe
+C:\Users\Luciano\source\repos\teste\ComboBox\bin\Debug\ComboBox.pdb
+C:\Users\Luciano\source\repos\teste\ComboBox\obj\Debug\ComboBox.Form1.resources
+C:\Users\Luciano\source\repos\teste\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+C:\Users\Luciano\source\repos\teste\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+C:\Users\Luciano\source\repos\teste\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\teste\ComboBox\obj\Debug\ComboBox.exe
+C:\Users\Luciano\source\repos\teste\ComboBox\obj\Debug\ComboBox.pdb

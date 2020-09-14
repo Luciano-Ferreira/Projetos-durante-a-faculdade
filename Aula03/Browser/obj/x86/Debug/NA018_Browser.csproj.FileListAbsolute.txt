@@ -1,0 +1,7 @@
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA018_Browser\bin\Debug\NA018_Browser.exe
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA018_Browser\bin\Debug\NA018_Browser.pdb
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA018_Browser\obj\x86\Debug\NA018_Browser.frmBrowser.resources
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA018_Browser\obj\x86\Debug\NA018_Browser.Properties.Resources.resources
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA018_Browser\obj\x86\Debug\NA018_Browser.csproj.GenerateResource.Cache
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA018_Browser\obj\x86\Debug\NA018_Browser.exe
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA018_Browser\obj\x86\Debug\NA018_Browser.pdb

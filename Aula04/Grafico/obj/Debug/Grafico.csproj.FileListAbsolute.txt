@@ -1,0 +1,16 @@
+C:\POO_II\Aulas\Aula04\Grafico\bin\Debug\Grafico.exe
+C:\POO_II\Aulas\Aula04\Grafico\bin\Debug\Grafico.pdb
+C:\POO_II\Aulas\Aula04\Grafico\obj\Debug\Grafico.FrmGrafico.resources
+C:\POO_II\Aulas\Aula04\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+C:\POO_II\Aulas\Aula04\Grafico\obj\Debug\Grafico.csproj.GenerateResource.Cache
+C:\POO_II\Aulas\Aula04\Grafico\obj\Debug\Grafico.exe
+C:\POO_II\Aulas\Aula04\Grafico\obj\Debug\Grafico.pdb
+C:\Users\Luciano\source\repos\Aula04\Grafico\bin\Debug\Grafico.exe
+C:\Users\Luciano\source\repos\Aula04\Grafico\bin\Debug\Grafico.pdb
+C:\Users\Luciano\source\repos\Aula04\Grafico\obj\Debug\Grafico.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\Aula04\Grafico\obj\Debug\Grafico.FrmGrafico.resources
+C:\Users\Luciano\source\repos\Aula04\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+C:\Users\Luciano\source\repos\Aula04\Grafico\obj\Debug\Grafico.csproj.GenerateResource.cache
+C:\Users\Luciano\source\repos\Aula04\Grafico\obj\Debug\Grafico.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\Aula04\Grafico\obj\Debug\Grafico.exe
+C:\Users\Luciano\source\repos\Aula04\Grafico\obj\Debug\Grafico.pdb

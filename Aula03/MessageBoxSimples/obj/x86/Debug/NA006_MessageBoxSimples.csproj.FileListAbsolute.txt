@@ -1,0 +1,7 @@
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA006_MessageBoxSimples\bin\Debug\NA006_MessageBoxSimples.exe
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA006_MessageBoxSimples\bin\Debug\NA006_MessageBoxSimples.pdb
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA006_MessageBoxSimples\obj\x86\Debug\NA006_MessageBoxSimples.frmMessageBoxSimples.resources
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA006_MessageBoxSimples\obj\x86\Debug\NA006_MessageBoxSimples.Properties.Resources.resources
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA006_MessageBoxSimples\obj\x86\Debug\NA006_MessageBoxSimples.csproj.GenerateResource.Cache
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA006_MessageBoxSimples\obj\x86\Debug\NA006_MessageBoxSimples.exe
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA006_MessageBoxSimples\obj\x86\Debug\NA006_MessageBoxSimples.pdb

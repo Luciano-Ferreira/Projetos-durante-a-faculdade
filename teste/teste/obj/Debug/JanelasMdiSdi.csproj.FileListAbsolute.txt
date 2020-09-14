@@ -1,0 +1,11 @@
+C:\Users\Luciano\source\repos\teste\teste\bin\Debug\teste.exe.config
+C:\Users\Luciano\source\repos\teste\teste\bin\Debug\teste.exe
+C:\Users\Luciano\source\repos\teste\teste\bin\Debug\teste.pdb
+C:\Users\Luciano\source\repos\teste\teste\obj\Debug\teste.FrmMDI.resources
+C:\Users\Luciano\source\repos\teste\teste\obj\Debug\teste.FrmSDI01.resources
+C:\Users\Luciano\source\repos\teste\teste\obj\Debug\teste.FrmSDI02.resources
+C:\Users\Luciano\source\repos\teste\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\Luciano\source\repos\teste\teste\obj\Debug\JanelasMdiSdi.csproj.GenerateResource.cache
+C:\Users\Luciano\source\repos\teste\teste\obj\Debug\JanelasMdiSdi.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\teste\teste\obj\Debug\teste.exe
+C:\Users\Luciano\source\repos\teste\teste\obj\Debug\teste.pdb

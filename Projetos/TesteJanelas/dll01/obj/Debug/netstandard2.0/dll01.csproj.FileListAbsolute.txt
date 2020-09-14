@@ -1,0 +1,9 @@
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\dll01\bin\Debug\netstandard2.0\dll01.deps.json
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\dll01\bin\Debug\netstandard2.0\dll01.dll
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\dll01\bin\Debug\netstandard2.0\dll01.pdb
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\dll01\obj\Debug\netstandard2.0\dll01.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\dll01\obj\Debug\netstandard2.0\dll01.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\dll01\obj\Debug\netstandard2.0\dll01.AssemblyInfoInputs.cache
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\dll01\obj\Debug\netstandard2.0\dll01.AssemblyInfo.cs
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\dll01\obj\Debug\netstandard2.0\dll01.dll
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\dll01\obj\Debug\netstandard2.0\dll01.pdb

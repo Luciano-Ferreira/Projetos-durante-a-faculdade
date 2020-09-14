@@ -1,0 +1,7 @@
+C:\Unip\Projetos\POOII\Aula06\dllBSBlibliotecaPOOII\bin\Debug\dllBSBlibliotecaPOOII.dll
+C:\Unip\Projetos\POOII\Aula06\dllBSBlibliotecaPOOII\bin\Debug\dllBSBlibliotecaPOOII.pdb
+C:\Unip\Projetos\POOII\Aula06\dllBSBlibliotecaPOOII\obj\Debug\dllBSBlibliotecaPOOII.dll
+C:\Unip\Projetos\POOII\Aula06\dllBSBlibliotecaPOOII\obj\Debug\dllBSBlibliotecaPOOII.pdb
+C:\Unip\Projetos\POOII\Aula06\dllBSBlibliotecaPOOII\bin\Debug\dllDBBlibliotecaPOOII.dll
+C:\Unip\Projetos\POOII\Aula06\dllBSBlibliotecaPOOII\bin\Debug\dllDBBlibliotecaPOOII.pdb
+C:\Unip\Projetos\POOII\Aula06\dllBSBlibliotecaPOOII\obj\Debug\dllBSBlibliotecaPOOII.csprojResolveAssemblyReference.cache

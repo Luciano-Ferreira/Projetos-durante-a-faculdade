@@ -1,0 +1,11 @@
+C:\Users\Luciano\source\repos\Aula06\dll_DB_libliotecaPOOII\bin\Debug\UNIP.POOII.dll_DB_BlibliotecaPOOII.dll
+C:\Users\Luciano\source\repos\Aula06\dll_DB_libliotecaPOOII\bin\Debug\UNIP.POOII.dll_DB_BlibliotecaPOOII.pdb
+C:\Users\Luciano\source\repos\Aula06\dll_DB_libliotecaPOOII\bin\Debug\UNIP.POOII.dll_DB_Kernel.dll
+C:\Users\Luciano\source\repos\Aula06\dll_DB_libliotecaPOOII\bin\Debug\UNIP.POOII.Util.dll
+C:\Users\Luciano\source\repos\Aula06\dll_DB_libliotecaPOOII\bin\Debug\UNIP.POOII.dll_DB_Kernel.pdb
+C:\Users\Luciano\source\repos\Aula06\dll_DB_libliotecaPOOII\bin\Debug\UNIP.POOII.Util.pdb
+C:\Users\Luciano\source\repos\Aula06\dll_DB_libliotecaPOOII\obj\Debug\dll_DB_BlibliotecaPOOII.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\Aula06\dll_DB_libliotecaPOOII\obj\Debug\dll_DB_BlibliotecaPOOII.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\Aula06\dll_DB_libliotecaPOOII\obj\Debug\dll_DB_BlibliotecaPOOII.csproj.CopyComplete
+C:\Users\Luciano\source\repos\Aula06\dll_DB_libliotecaPOOII\obj\Debug\UNIP.POOII.dll_DB_BlibliotecaPOOII.dll
+C:\Users\Luciano\source\repos\Aula06\dll_DB_libliotecaPOOII\obj\Debug\UNIP.POOII.dll_DB_BlibliotecaPOOII.pdb

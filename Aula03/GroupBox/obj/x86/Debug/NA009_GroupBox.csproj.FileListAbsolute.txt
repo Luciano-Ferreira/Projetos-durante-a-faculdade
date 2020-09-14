@@ -1,0 +1,7 @@
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA009_GroupBox\bin\Debug\NA009_GroupBox.exe
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA009_GroupBox\bin\Debug\NA009_GroupBox.pdb
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA009_GroupBox\obj\x86\Debug\NA009_GroupBox.frmGroupBox.resources
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA009_GroupBox\obj\x86\Debug\NA009_GroupBox.Properties.Resources.resources
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA009_GroupBox\obj\x86\Debug\NA009_GroupBox.csproj.GenerateResource.Cache
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA009_GroupBox\obj\x86\Debug\NA009_GroupBox.exe
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA009_GroupBox\obj\x86\Debug\NA009_GroupBox.pdb

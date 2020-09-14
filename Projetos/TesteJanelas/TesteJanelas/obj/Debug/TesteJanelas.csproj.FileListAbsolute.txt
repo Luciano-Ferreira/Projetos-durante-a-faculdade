@@ -1,0 +1,14 @@
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\TesteJanelas\bin\Debug\TesteJanelas.exe.config
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\TesteJanelas\bin\Debug\TesteJanelas.exe
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\TesteJanelas\bin\Debug\TesteJanelas.pdb
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\TesteJanelas\obj\Debug\TesteJanelas.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\TesteJanelas\obj\Debug\TesteJanelas.FrmCadastroClientes.resources
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\TesteJanelas\obj\Debug\TesteJanelas.FrmPrincipal.resources
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\TesteJanelas\obj\Debug\TesteJanelas.Properties.Resources.resources
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\TesteJanelas\obj\Debug\TesteJanelas.csproj.GenerateResource.cache
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\TesteJanelas\obj\Debug\TesteJanelas.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\TesteJanelas\obj\Debug\TesteJanelas.exe
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\TesteJanelas\obj\Debug\TesteJanelas.pdb
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\TesteJanelas\bin\Debug\dll01.dll
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\TesteJanelas\bin\Debug\dll01.pdb
+C:\Users\Luciano\source\repos\Projetos\TesteJanelas\TesteJanelas\obj\Debug\TesteJanelas.csproj.CopyComplete

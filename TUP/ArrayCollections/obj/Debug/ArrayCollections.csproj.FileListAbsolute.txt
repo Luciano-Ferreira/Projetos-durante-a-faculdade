@@ -1,0 +1,6 @@
+C:\Users\Luciano\source\repos\TUP\ArrayCollections\bin\Debug\ArrayCollections.exe.config
+C:\Users\Luciano\source\repos\TUP\ArrayCollections\bin\Debug\ArrayCollections.exe
+C:\Users\Luciano\source\repos\TUP\ArrayCollections\bin\Debug\ArrayCollections.pdb
+C:\Users\Luciano\source\repos\TUP\ArrayCollections\obj\Debug\ArrayCollections.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\TUP\ArrayCollections\obj\Debug\ArrayCollections.exe
+C:\Users\Luciano\source\repos\TUP\ArrayCollections\obj\Debug\ArrayCollections.pdb

@@ -1,0 +1,17 @@
+C:\Projetos\WinForm\PictureBox\PictureBox\bin\Debug\PictureBox.exe
+C:\Projetos\WinForm\PictureBox\PictureBox\bin\Debug\PictureBox.pdb
+C:\Projetos\WinForm\PictureBox\PictureBox\obj\Debug\PictureBox.csprojAssemblyReference.cache
+C:\Projetos\WinForm\PictureBox\PictureBox\obj\Debug\PictureBox.FrmPictureBox.resources
+C:\Projetos\WinForm\PictureBox\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+C:\Projetos\WinForm\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.cache
+C:\Projetos\WinForm\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.CoreCompileInputs.cache
+C:\Projetos\WinForm\PictureBox\PictureBox\obj\Debug\PictureBox.exe
+C:\Projetos\WinForm\PictureBox\PictureBox\obj\Debug\PictureBox.pdb
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\PictureBox\PictureBox\bin\Debug\PictureBox.exe
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\PictureBox\PictureBox\bin\Debug\PictureBox.pdb
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\PictureBox\PictureBox\obj\Debug\PictureBox.FrmPictureBox.resources
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\PictureBox\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.cache
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.CoreCompileInputs.cache
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\PictureBox\PictureBox\obj\Debug\PictureBox.exe
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\PictureBox\PictureBox\obj\Debug\PictureBox.pdb

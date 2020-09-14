@@ -1,0 +1,6 @@
+C:\Users\Luciano\source\repos\TUP\TUP\bin\Debug\TUP.exe.config
+C:\Users\Luciano\source\repos\TUP\TUP\bin\Debug\TUP.exe
+C:\Users\Luciano\source\repos\TUP\TUP\bin\Debug\TUP.pdb
+C:\Users\Luciano\source\repos\TUP\TUP\obj\Debug\TUP.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\TUP\TUP\obj\Debug\TUP.exe
+C:\Users\Luciano\source\repos\TUP\TUP\obj\Debug\TUP.pdb

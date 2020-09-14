@@ -1,0 +1,14 @@
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_02\dbDLLGenerico\bin\Debug\dbDLLGenerico02.dll
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_02\dbDLLGenerico\bin\Debug\dbDLLGenerico02.pdb
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_02\dbDLLGenerico\obj\Debug\dbDLLGenerico02.csproj.CoreCompileInputs.cache
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_02\dbDLLGenerico\obj\Debug\dbDLLGenerico02.dll
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_02\dbDLLGenerico\obj\Debug\dbDLLGenerico02.pdb
+C:\POO_II\Aulas\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_02\dbDLLGenerico\bin\Debug\dbDLLGenerico02.dll
+C:\POO_II\Aulas\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_02\dbDLLGenerico\bin\Debug\dbDLLGenerico02.pdb
+C:\POO_II\Aulas\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_02\dbDLLGenerico\obj\Debug\dbDLLGenerico02.dll
+C:\POO_II\Aulas\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_02\dbDLLGenerico\obj\Debug\dbDLLGenerico02.pdb
+C:\Users\Luciano\source\repos\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_02\dbDLLGenerico\bin\Debug\dbDLLGenerico02.dll
+C:\Users\Luciano\source\repos\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_02\dbDLLGenerico\bin\Debug\dbDLLGenerico02.pdb
+C:\Users\Luciano\source\repos\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_02\dbDLLGenerico\obj\Debug\dbDLLGenerico02.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_02\dbDLLGenerico\obj\Debug\dbDLLGenerico02.dll
+C:\Users\Luciano\source\repos\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_02\dbDLLGenerico\obj\Debug\dbDLLGenerico02.pdb

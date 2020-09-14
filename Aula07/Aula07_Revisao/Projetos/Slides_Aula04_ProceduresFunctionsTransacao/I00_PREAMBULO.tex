@@ -1,0 +1,173 @@
+%PREAMBULO
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   IDIOMA
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\usepackage{xcolor}
+\usepackage[brazil]{babel}		% Idioma do documento
+\usepackage{color}				% Controle das cores
+\usepackage[T1]{fontenc}		% Selecao de codigos de fonte.
+\usepackage{graphicx}			% Inclusão de gráficos
+\usepackage[utf8]{inputenc}		% Codificacao do documento (conversão automática dos acentos)
+\usepackage{txfonts}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   ESTILO APRESENTAÇÃO
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\usetheme{Warsaw}
+\usetheme{Berkeley}
+\usebeamercolor{beaver}
+\usefonttheme{structurebold}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   INFORMACOES DO FRAME
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title[POO II]{Procedures/Functions/Views e Transações}
+\subtitle{PROGRAMAÇÃO ORIENTADA A OBJETOS II}
+\author{Prof Angel Antonio Gonzalez Martinez}
+\institute{Notas de aula}
+\date{\today}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   ACRESCENTA DATA E NUMERAÇÃO DO FRAME NO RODAPE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\makeatletter
+\definecolor{ilpablue}{rgb}{0.16,0.43,0.75}
+\definecolor{ilpayellow}{rgb}{0.86,0.69,0.13}
+\setbeamercolor{footlinecolor}{fg=white,bg=ilpablue}
+\setbeamercolor{FundoLogo}{fg=white,bg=ilpayellow}
+\renewcommand\footnoterule{{\color{ilpayellow}\hrule height 0.5pt width \paperwidth}}
+
+%\def\Sub{.5\beamer@paperwidth-\beamer@sidebarwidth}
+%\def\SubA{\Sub}
+%\def\Metade{.5\paperwidth-\beamer@sidebarwidth}
+
+%\newlength{\Metade}{.5\paperwidth-\beamer@sidebarwidth}
+
+
+\newdimen\Metade%
+\setlength{\Metade}{.5\paperwidth}%
+\addtolength{\Metade}{-\beamer@sidebarwidth}%
+
+
+%\newcommand{\Metade}{.5\beamer@paperwidth}
+
+%\def\Metade{.5(\paperwidth-2\beamer@sidebarwidth)}
+%\def\Metade{10cm}
+%\begin{beamercolorbox}[wd=\beamer@sidebarwidth,ht=\@tempdimb]{bosta}%{section in head/foot}%{fg=red,bg=red}%
+%\begin{beamercolorbox}[wd=.2\paperwidth,ht=\@tempdimb]{bosta}%{section in head/foot}%{fg=red,bg=red}%
+	
+\setbeamertemplate{headline}{%
+	\leavevmode%
+	%\@tempdimb=2.4375ex%
+	\@tempdimb=1cm%
+%	\ifnum\beamer@subsectionmax<\beamer@sectionmax%
+%	\multiply\@tempdimb by\beamer@sectionmax%
+%	\else%
+%	\multiply\@tempdimb by\beamer@subsectionmax%
+%	\fi%
+	\ifdim\@tempdimb>0pt%
+		\advance\@tempdimb by 1.825ex%	
+	 	\begin{beamercolorbox}[wd=\beamer@sidebarwidth,ht=\@tempdimb]{section in head/foot}%{fg=red,bg=red}%
+			\vbox to\@tempdimb{ \vfil \includegraphics[height=\@tempdimb]{./Figuras/Logocsharp0021.png}
+			%	\hfill  bbb bbb %\insertsectionnavigation{.3\paperwidth}
+			\vfil
+			}%
+		\end{beamercolorbox}%
+		\begin{beamercolorbox}[wd=\Metade,ht=\@tempdimb,center]{subsection in head/foot}%
+			%\vbox to\@tempdimb{\vfil\insertsubsectionnavigation{.5\paperwidth}\vfil}%
+			\vbox to\@tempdimb{
+				\vfil Procedures/Functions/Views e Transações \newline
+				 PROGRAMAÇÃO ORIENTADA A OBJETOS II 
+				\vfil}%
+		\end{beamercolorbox}%
+		\begin{beamercolorbox}[wd=\Metade,ht=\@tempdimb,center]{subsection in head/foot}%
+			%\vbox to\@tempdimb{\vfil\insertsubsectionnavigation{.5\paperwidth}\vfil}%
+			\vbox to\@tempdimb{\vfil  Analise e Desenvolvimento de Sistemas \newline
+				Notas de Aula  \vfil}%
+		\end{beamercolorbox}%
+		\begin{beamercolorbox}[wd=\beamer@sidebarwidth,ht=\@tempdimb]{section in head/foot}%
+			\vbox to\@tempdimb{\vfil\hfill\includegraphics[height=\@tempdimb]{./Figuras/VS2017_Logo_01.png}\vfil}
+		\end{beamercolorbox}%    
+	\fi%
+}
+\makeatother
+
+% Footline
+\makeatletter
+\setbeamertemplate{footline}{%
+	\leavevmode%
+	\hbox{\begin{beamercolorbox}[wd=.5\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm,rightskip=.3cm]{author in head/foot}%
+			\usebeamerfont{author in head/foot}\insertshortdate \hfill \insertshortauthor
+		\end{beamercolorbox}%
+		\begin{beamercolorbox}[wd=.5\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm,rightskip=.3cm plus1fil]{title in head/foot}%
+			\usebeamerfont{title in head/foot}\inserttitle (\insertshorttitle) \hfill \insertframenumber\,/\,\inserttotalframenumber
+	\end{beamercolorbox}
+  }%
+	\vskip0pt%
+}
+\makeatother
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   CAIXA TEXTO
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{tikz,tkz-tab}%
+\usetikzlibrary{matrix,arrows, positioning,shadows,shadings,backgrounds,calc, shapes, tikzmark}
+\usepackage{tcolorbox, empheq}%
+\tcbuselibrary{skins,breakable,listings,theorems}
+\usepackage{varwidth}
+%
+\input{FormatacaoCaixaTexto}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   IMAGEM DE FUNDO
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usebackgroundtemplate
+{%
+	\tikz\node[opacity=0.1] {\includegraphics[height=\paperheight,width=\paperwidth]{./Figuras/images.jpeg}};
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   LOGOTIPO
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\usepackage{animate}
+%\usepackage{graphicx}
+%\newlength\imgwd
+%\setlength\imgwd{2in}
+%\newlength\imght
+%\setlength\imght{2in}
+%\newlength\imgdiag
+%\setlength\imgdiag{1.4142\imgwd} %should be set to sqrt(imgwd^2+imght^2)
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   LOGOTIPO
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\makeatletter
+\renewcommand*\env@matrix[1][c]{\hskip -\arraycolsep
+	\let\@ifnextchar\new@ifnextchar
+	\array{*\c@MaxMatrixCols #1}}
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   Box Com Gradiente
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{empheq}
+\newtcbox{\cajaD}[1][]{nobeforeafter,math upper,tcbox raise base,
+	enhanced,frame hidden,boxrule=0pt,
+	interior style={ top color = white,
+		bottom color = LightBlue4!50,
+		middle color=LightBlue4!10}
+	%fuzzy halo=1pt with green
+	#1}%
+
+
+
+

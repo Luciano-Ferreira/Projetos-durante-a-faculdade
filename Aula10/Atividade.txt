@@ -1,0 +1,5 @@
+
+
+1) Ler o artigo
+2) Entender o programa
+3) Completar o programa para fornecedores

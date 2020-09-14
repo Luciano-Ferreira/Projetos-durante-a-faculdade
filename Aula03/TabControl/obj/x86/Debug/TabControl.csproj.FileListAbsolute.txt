@@ -1,0 +1,8 @@
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\TabControl\bin\Debug\NA020_TabControl.exe
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\TabControl\bin\Debug\NA020_TabControl.pdb
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\TabControl\obj\x86\Debug\NA020_TabControl.frmTabControl.resources
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\TabControl\obj\x86\Debug\NA020_TabControl.Properties.Resources.resources
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\TabControl\obj\x86\Debug\TabControl.csproj.GenerateResource.cache
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\TabControl\obj\x86\Debug\TabControl.csproj.CoreCompileInputs.cache
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\TabControl\obj\x86\Debug\NA020_TabControl.exe
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\TabControl\obj\x86\Debug\NA020_TabControl.pdb

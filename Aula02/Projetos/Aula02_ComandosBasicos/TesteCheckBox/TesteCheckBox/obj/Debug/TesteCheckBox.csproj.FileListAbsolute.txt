@@ -1,0 +1,17 @@
+C:\Projetos\WinForm\TesteCheckBox\TesteCheckBox\bin\Debug\TesteCheckBox.exe
+C:\Projetos\WinForm\TesteCheckBox\TesteCheckBox\bin\Debug\TesteCheckBox.pdb
+C:\Projetos\WinForm\TesteCheckBox\TesteCheckBox\obj\Debug\TesteCheckBox.csprojAssemblyReference.cache
+C:\Projetos\WinForm\TesteCheckBox\TesteCheckBox\obj\Debug\TesteCheckBox.FrmTesteCheckBox.resources
+C:\Projetos\WinForm\TesteCheckBox\TesteCheckBox\obj\Debug\TesteCheckBox.Properties.Resources.resources
+C:\Projetos\WinForm\TesteCheckBox\TesteCheckBox\obj\Debug\TesteCheckBox.csproj.GenerateResource.cache
+C:\Projetos\WinForm\TesteCheckBox\TesteCheckBox\obj\Debug\TesteCheckBox.csproj.CoreCompileInputs.cache
+C:\Projetos\WinForm\TesteCheckBox\TesteCheckBox\obj\Debug\TesteCheckBox.exe
+C:\Projetos\WinForm\TesteCheckBox\TesteCheckBox\obj\Debug\TesteCheckBox.pdb
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\TesteCheckBox\TesteCheckBox\bin\Debug\TesteCheckBox.exe
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\TesteCheckBox\TesteCheckBox\bin\Debug\TesteCheckBox.pdb
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\TesteCheckBox\TesteCheckBox\obj\Debug\TesteCheckBox.FrmTesteCheckBox.resources
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\TesteCheckBox\TesteCheckBox\obj\Debug\TesteCheckBox.Properties.Resources.resources
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\TesteCheckBox\TesteCheckBox\obj\Debug\TesteCheckBox.csproj.GenerateResource.cache
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\TesteCheckBox\TesteCheckBox\obj\Debug\TesteCheckBox.csproj.CoreCompileInputs.cache
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\TesteCheckBox\TesteCheckBox\obj\Debug\TesteCheckBox.exe
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\TesteCheckBox\TesteCheckBox\obj\Debug\TesteCheckBox.pdb

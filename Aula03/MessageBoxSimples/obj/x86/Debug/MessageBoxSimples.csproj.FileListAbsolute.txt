@@ -1,0 +1,8 @@
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\MessageBoxSimples\bin\Debug\NA006_MessageBoxSimples.exe
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\MessageBoxSimples\bin\Debug\NA006_MessageBoxSimples.pdb
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\MessageBoxSimples\obj\x86\Debug\NA006_MessageBoxSimples.frmMessageBoxSimples.resources
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\MessageBoxSimples\obj\x86\Debug\NA006_MessageBoxSimples.Properties.Resources.resources
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\MessageBoxSimples\obj\x86\Debug\MessageBoxSimples.csproj.GenerateResource.cache
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\MessageBoxSimples\obj\x86\Debug\MessageBoxSimples.csproj.CoreCompileInputs.cache
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\MessageBoxSimples\obj\x86\Debug\NA006_MessageBoxSimples.exe
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\MessageBoxSimples\obj\x86\Debug\NA006_MessageBoxSimples.pdb

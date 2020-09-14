@@ -1,0 +1,8 @@
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\MascaraEntradaDados\bin\Debug\NA015_MascaraEntradaDados.exe
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\MascaraEntradaDados\bin\Debug\NA015_MascaraEntradaDados.pdb
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\MascaraEntradaDados\obj\x86\Debug\NA015_MascaraEntradaDados.frmMascaraEntradaDados.resources
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\MascaraEntradaDados\obj\x86\Debug\NA015_MascaraEntradaDados.Properties.Resources.resources
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\MascaraEntradaDados\obj\x86\Debug\MascaraEntradaDados.csproj.GenerateResource.cache
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\MascaraEntradaDados\obj\x86\Debug\MascaraEntradaDados.csproj.CoreCompileInputs.cache
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\MascaraEntradaDados\obj\x86\Debug\NA015_MascaraEntradaDados.exe
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\MascaraEntradaDados\obj\x86\Debug\NA015_MascaraEntradaDados.pdb

@@ -1,0 +1,16 @@
+C:\POO_II\Aulas\Aula05\Projeto\Aula05\ControlePedidos\bin\Debug\ControlePedidos.exe.config
+C:\POO_II\Aulas\Aula05\Projeto\Aula05\ControlePedidos\bin\Debug\ControlePedidos.exe
+C:\POO_II\Aulas\Aula05\Projeto\Aula05\ControlePedidos\bin\Debug\ControlePedidos.pdb
+C:\POO_II\Aulas\Aula05\Projeto\Aula05\ControlePedidos\bin\Debug\mscorlib.dll
+C:\POO_II\Aulas\Aula05\Projeto\Aula05\ControlePedidos\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\POO_II\Aulas\Aula05\Projeto\Aula05\ControlePedidos\bin\Debug\normidna.nlp
+C:\POO_II\Aulas\Aula05\Projeto\Aula05\ControlePedidos\bin\Debug\normnfc.nlp
+C:\POO_II\Aulas\Aula05\Projeto\Aula05\ControlePedidos\bin\Debug\normnfd.nlp
+C:\POO_II\Aulas\Aula05\Projeto\Aula05\ControlePedidos\bin\Debug\normnfkc.nlp
+C:\POO_II\Aulas\Aula05\Projeto\Aula05\ControlePedidos\bin\Debug\normnfkd.nlp
+C:\POO_II\Aulas\Aula05\Projeto\Aula05\ControlePedidos\obj\Debug\ControlePedidos.csprojResolveAssemblyReference.cache
+C:\POO_II\Aulas\Aula05\Projeto\Aula05\ControlePedidos\obj\Debug\ControlePedidos.FrmPrincipal.resources
+C:\POO_II\Aulas\Aula05\Projeto\Aula05\ControlePedidos\obj\Debug\ControlePedidos.Properties.Resources.resources
+C:\POO_II\Aulas\Aula05\Projeto\Aula05\ControlePedidos\obj\Debug\ControlePedidos.csproj.GenerateResource.Cache
+C:\POO_II\Aulas\Aula05\Projeto\Aula05\ControlePedidos\obj\Debug\ControlePedidos.exe
+C:\POO_II\Aulas\Aula05\Projeto\Aula05\ControlePedidos\obj\Debug\ControlePedidos.pdb

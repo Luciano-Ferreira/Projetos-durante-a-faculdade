@@ -1,0 +1,6 @@
+C:\Users\Luciano\source\repos\TUP\TUPaplicacao\bin\Debug\TUPaplicacao.exe.config
+C:\Users\Luciano\source\repos\TUP\TUPaplicacao\bin\Debug\TUPaplicacao.exe
+C:\Users\Luciano\source\repos\TUP\TUPaplicacao\bin\Debug\TUPaplicacao.pdb
+C:\Users\Luciano\source\repos\TUP\TUPaplicacao\obj\Debug\TUPaplicacao.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\TUP\TUPaplicacao\obj\Debug\TUPaplicacao.exe
+C:\Users\Luciano\source\repos\TUP\TUPaplicacao\obj\Debug\TUPaplicacao.pdb

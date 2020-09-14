@@ -1,0 +1,8 @@
+C:\Users\Luciano\source\repos\Aula08\Procedures\Procedures\bin\Debug\Procedures.exe
+C:\Users\Luciano\source\repos\Aula08\Procedures\Procedures\bin\Debug\Procedures.pdb
+C:\Users\Luciano\source\repos\Aula08\Procedures\Procedures\obj\x86\Debug\Procedures.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\Aula08\Procedures\Procedures\obj\x86\Debug\Procedures.frmProcedures.resources
+C:\Users\Luciano\source\repos\Aula08\Procedures\Procedures\obj\x86\Debug\Procedures.Properties.Resources.resources
+C:\Users\Luciano\source\repos\Aula08\Procedures\Procedures\obj\x86\Debug\Procedures.csproj.GenerateResource.cache
+C:\Users\Luciano\source\repos\Aula08\Procedures\Procedures\obj\x86\Debug\Procedures.exe
+C:\Users\Luciano\source\repos\Aula08\Procedures\Procedures\obj\x86\Debug\Procedures.pdb

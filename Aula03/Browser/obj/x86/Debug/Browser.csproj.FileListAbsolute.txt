@@ -1,0 +1,8 @@
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\Browser\bin\Debug\NA018_Browser.exe
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\Browser\bin\Debug\NA018_Browser.pdb
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\Browser\obj\x86\Debug\NA018_Browser.frmBrowser.resources
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\Browser\obj\x86\Debug\NA018_Browser.Properties.Resources.resources
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\Browser\obj\x86\Debug\Browser.csproj.GenerateResource.cache
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\Browser\obj\x86\Debug\Browser.csproj.CoreCompileInputs.cache
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\Browser\obj\x86\Debug\NA018_Browser.exe
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\Browser\obj\x86\Debug\NA018_Browser.pdb

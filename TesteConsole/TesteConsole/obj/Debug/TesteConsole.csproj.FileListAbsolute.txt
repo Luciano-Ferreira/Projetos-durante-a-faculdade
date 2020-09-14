@@ -1,0 +1,6 @@
+C:\Users\Luciano\source\repos\TesteConsole\TesteConsole\bin\Debug\TesteConsole.exe.config
+C:\Users\Luciano\source\repos\TesteConsole\TesteConsole\bin\Debug\TesteConsole.exe
+C:\Users\Luciano\source\repos\TesteConsole\TesteConsole\bin\Debug\TesteConsole.pdb
+C:\Users\Luciano\source\repos\TesteConsole\TesteConsole\obj\Debug\TesteConsole.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\TesteConsole\TesteConsole\obj\Debug\TesteConsole.exe
+C:\Users\Luciano\source\repos\TesteConsole\TesteConsole\obj\Debug\TesteConsole.pdb

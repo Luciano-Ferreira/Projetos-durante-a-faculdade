@@ -1,0 +1,6 @@
+C:\Users\Luciano\source\repos\Aula06\dll_DB_Kernel\bin\Debug\UNIP.POOII.dll_DB_Kernel.dll
+C:\Users\Luciano\source\repos\Aula06\dll_DB_Kernel\bin\Debug\UNIP.POOII.dll_DB_Kernel.pdb
+C:\Users\Luciano\source\repos\Aula06\dll_DB_Kernel\obj\Debug\dll_DB_Kernel.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\Aula06\dll_DB_Kernel\obj\Debug\dll_DB_Kernel.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\Aula06\dll_DB_Kernel\obj\Debug\UNIP.POOII.dll_DB_Kernel.dll
+C:\Users\Luciano\source\repos\Aula06\dll_DB_Kernel\obj\Debug\UNIP.POOII.dll_DB_Kernel.pdb

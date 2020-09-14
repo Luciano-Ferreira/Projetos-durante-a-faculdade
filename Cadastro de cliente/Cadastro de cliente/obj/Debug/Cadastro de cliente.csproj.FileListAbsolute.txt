@@ -1,0 +1,10 @@
+C:\Users\Luciano\source\repos\Cadastro de cliente\Cadastro de cliente\obj\Debug\Cadastro_de_cliente.CadastroCliente.resources
+C:\Users\Luciano\source\repos\Cadastro de cliente\Cadastro de cliente\obj\Debug\Cadastro_de_cliente.Properties.Resources.resources
+C:\Users\Luciano\source\repos\Cadastro de cliente\Cadastro de cliente\obj\Debug\Cadastro de cliente.csproj.GenerateResource.cache
+C:\Users\Luciano\source\repos\Cadastro de cliente\Cadastro de cliente\obj\Debug\Cadastro de cliente.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\Cadastro de cliente\Cadastro de cliente\bin\Debug\Cadastro de cliente.exe.config
+C:\Users\Luciano\source\repos\Cadastro de cliente\Cadastro de cliente\bin\Debug\Cadastro de cliente.exe
+C:\Users\Luciano\source\repos\Cadastro de cliente\Cadastro de cliente\bin\Debug\Cadastro de cliente.pdb
+C:\Users\Luciano\source\repos\Cadastro de cliente\Cadastro de cliente\obj\Debug\Cadastro de cliente.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\Cadastro de cliente\Cadastro de cliente\obj\Debug\Cadastro de cliente.exe
+C:\Users\Luciano\source\repos\Cadastro de cliente\Cadastro de cliente\obj\Debug\Cadastro de cliente.pdb

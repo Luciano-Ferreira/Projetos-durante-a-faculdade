@@ -1,0 +1,12 @@
+C:\Projetos\WinForm\CrudSimples01_Melhoria_04\dllConfiguracao\bin\Debug\dllConfiguracao.dll
+C:\Projetos\WinForm\CrudSimples01_Melhoria_04\dllConfiguracao\bin\Debug\dllConfiguracao.pdb
+C:\Projetos\WinForm\CrudSimples01_Melhoria_04\dllConfiguracao\obj\Debug\dllConfiguracao.csprojAssemblyReference.cache
+C:\Projetos\WinForm\CrudSimples01_Melhoria_04\dllConfiguracao\obj\Debug\dllConfiguracao.csproj.CoreCompileInputs.cache
+C:\Projetos\WinForm\CrudSimples01_Melhoria_04\dllConfiguracao\obj\Debug\dllConfiguracao.dll
+C:\Projetos\WinForm\CrudSimples01_Melhoria_04\dllConfiguracao\obj\Debug\dllConfiguracao.pdb
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_04\dllConfiguracao\bin\Debug\dllConfiguracao.dll
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_04\dllConfiguracao\bin\Debug\dllConfiguracao.pdb
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_04\dllConfiguracao\obj\Debug\dllConfiguracao.csprojAssemblyReference.cache
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_04\dllConfiguracao\obj\Debug\dllConfiguracao.csproj.CoreCompileInputs.cache
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_04\dllConfiguracao\obj\Debug\dllConfiguracao.dll
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_04\dllConfiguracao\obj\Debug\dllConfiguracao.pdb

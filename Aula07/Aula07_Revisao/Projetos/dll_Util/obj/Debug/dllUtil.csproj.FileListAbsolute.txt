@@ -1,0 +1,4 @@
+C:\Unip\Projetos\POOII\Aula04\dllUtil\bin\Debug\dllUtil.dll
+C:\Unip\Projetos\POOII\Aula04\dllUtil\bin\Debug\dllUtil.pdb
+C:\Unip\Projetos\POOII\Aula04\dllUtil\obj\Debug\dllUtil.dll
+C:\Unip\Projetos\POOII\Aula04\dllUtil\obj\Debug\dllUtil.pdb

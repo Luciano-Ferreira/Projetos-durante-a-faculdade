@@ -1,0 +1,7 @@
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA019_NumericUpDownEProgressBar\obj\x86\Debug\NA019_NumericUpDownEProgressBar.frmNumericUpDownEProgressBar.resources
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA019_NumericUpDownEProgressBar\obj\x86\Debug\NA019_NumericUpDownEProgressBar.Properties.Resources.resources
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA019_NumericUpDownEProgressBar\obj\x86\Debug\NA019_NumericUpDownEProgressBar.csproj.GenerateResource.Cache
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA019_NumericUpDownEProgressBar\bin\Debug\NA019_NumericUpDownEProgressBar.exe
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA019_NumericUpDownEProgressBar\bin\Debug\NA019_NumericUpDownEProgressBar.pdb
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA019_NumericUpDownEProgressBar\obj\x86\Debug\NA019_NumericUpDownEProgressBar.exe
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA019_NumericUpDownEProgressBar\obj\x86\Debug\NA019_NumericUpDownEProgressBar.pdb

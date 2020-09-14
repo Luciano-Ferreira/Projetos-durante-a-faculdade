@@ -1,0 +1,12 @@
+H:\Mega\Exemplos\GraphDisplay_04092014\GraphDisplay\GraficalDisplay\bin\Debug\GraficDisplay.exe
+H:\Mega\Exemplos\GraphDisplay_04092014\GraphDisplay\GraficalDisplay\bin\Debug\GraficDisplay.pdb
+H:\Mega\Exemplos\GraphDisplay_04092014\GraphDisplay\GraficalDisplay\bin\Debug\GraphLib.dll
+H:\Mega\Exemplos\GraphDisplay_04092014\GraphDisplay\GraficalDisplay\bin\Debug\GraphLib.pdb
+H:\Mega\Exemplos\GraphDisplay_04092014\GraphDisplay\GraficalDisplay\obj\Debug\GraficDisplay.csprojAssemblyReference.cache
+H:\Mega\Exemplos\GraphDisplay_04092014\GraphDisplay\GraficalDisplay\obj\Debug\GraficDisplay.MainForm.resources
+H:\Mega\Exemplos\GraphDisplay_04092014\GraphDisplay\GraficalDisplay\obj\Debug\GraficDisplay.Properties.Resources.resources
+H:\Mega\Exemplos\GraphDisplay_04092014\GraphDisplay\GraficalDisplay\obj\Debug\GraficDisplay.csproj.GenerateResource.cache
+H:\Mega\Exemplos\GraphDisplay_04092014\GraphDisplay\GraficalDisplay\obj\Debug\GraficDisplay.csproj.CoreCompileInputs.cache
+H:\Mega\Exemplos\GraphDisplay_04092014\GraphDisplay\GraficalDisplay\obj\Debug\GraficDisplay.csproj.CopyComplete
+H:\Mega\Exemplos\GraphDisplay_04092014\GraphDisplay\GraficalDisplay\obj\Debug\GraficDisplay.exe
+H:\Mega\Exemplos\GraphDisplay_04092014\GraphDisplay\GraficalDisplay\obj\Debug\GraficDisplay.pdb

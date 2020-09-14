@@ -1,0 +1,16 @@
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_03\dbDLLGenerico\bin\Debug\dbDLLGenerico03.dll
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_03\dbDLLGenerico\bin\Debug\dbDLLGenerico03.pdb
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_03\dbDLLGenerico\obj\Debug\dbDLLGenerico03.csproj.CoreCompileInputs.cache
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_03\dbDLLGenerico\obj\Debug\dbDLLGenerico03.dll
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_03\dbDLLGenerico\obj\Debug\dbDLLGenerico03.pdb
+H:\IMPORTANTE\NUVEM\GOOGLEDRIVE\TRABALHO\UNIP\Ano_2019\S2\POO_II\NP1\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_03\dbDLLGenerico\obj\Debug\dbDLLGenerico03.csprojAssemblyReference.cache
+C:\POO_II\Aulas\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_03\dbDLLGenerico\bin\Debug\dbDLLGenerico03.dll
+C:\POO_II\Aulas\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_03\dbDLLGenerico\bin\Debug\dbDLLGenerico03.pdb
+C:\POO_II\Aulas\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_03\dbDLLGenerico\obj\Debug\dbDLLGenerico03.dll
+C:\POO_II\Aulas\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_03\dbDLLGenerico\obj\Debug\dbDLLGenerico03.pdb
+C:\Users\Luciano\source\repos\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_03\dbDLLGenerico\bin\Debug\dbDLLGenerico03.dll
+C:\Users\Luciano\source\repos\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_03\dbDLLGenerico\bin\Debug\dbDLLGenerico03.pdb
+C:\Users\Luciano\source\repos\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_03\dbDLLGenerico\obj\Debug\dbDLLGenerico03.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_03\dbDLLGenerico\obj\Debug\dbDLLGenerico03.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_03\dbDLLGenerico\obj\Debug\dbDLLGenerico03.dll
+C:\Users\Luciano\source\repos\Aula02\Projetos\Aula02_ComandosBasicos\CrudSimples01_Melhoria_03\dbDLLGenerico\obj\Debug\dbDLLGenerico03.pdb

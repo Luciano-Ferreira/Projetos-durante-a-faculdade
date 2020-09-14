@@ -1,0 +1,6 @@
+C:\Users\Luciano\source\repos\MultiThread\MultiThread\bin\Debug\MultiThread.exe.config
+C:\Users\Luciano\source\repos\MultiThread\MultiThread\bin\Debug\MultiThread.exe
+C:\Users\Luciano\source\repos\MultiThread\MultiThread\bin\Debug\MultiThread.pdb
+C:\Users\Luciano\source\repos\MultiThread\MultiThread\obj\Debug\MultiThread.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\MultiThread\MultiThread\obj\Debug\MultiThread.exe
+C:\Users\Luciano\source\repos\MultiThread\MultiThread\obj\Debug\MultiThread.pdb

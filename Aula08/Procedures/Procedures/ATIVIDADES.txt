@@ -1,0 +1,42 @@
+﻿
+
+1) CRIA UMA BASE DE NOME dbProcedures
+
+
+2) CRIE UM SCRIPT PARA CRIAR A TABELA ABAIXO
+
+CREATE TABLE [dbo].[tbVendedores](
+	[Cod] [int] IDENTITY(1,1) NOT NULL,
+	[Nome] [varchar](50) NOT NULL,
+	[FaixaComissao] [char](1) NOT NULL,
+	[ValorComissao] [decimal](4, 2) NOT NULL,
+ CONSTRAINT [PK_tbVendedores] PRIMARY KEY CLUSTERED 
+(
+	[Cod] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+
+
+3) EXECUTE OS SCRIPTS ABAIXO DE CRIACAO DA PROCEDURES
+
+	a) sp_Exemplo_IF.sql
+	b) sp_Exemplo_Cursor_While.SQL
+	c) sp_Exemplo_Transacao_Simples.sql
+	d) sp_Exemplo_Variaves_Tipo_OUT.sql
+	e) sp_ExemploTryCach_TratarErro.sql
+
+4) POPULE A TABELA tbVendedores COM DADOS DE TESTE
+
+5) USE O ARQUIVO ABAIXO PARA TESTAR E ENTENDER A PROCEDURES
+   e faça comentarios na procedure para seu entendimento
+
+TestesProcedures.sql
+tabpage
+6) CRIE UM PROGRAMA EM C# CAPAZ DE USAR do item 3 de a) a e) 
+
+
+integration services
+SSIS
+SSDT
+ETL

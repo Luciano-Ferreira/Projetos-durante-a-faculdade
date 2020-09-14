@@ -1,0 +1,7 @@
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA020_TabControl\bin\Debug\NA020_TabControl.exe
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA020_TabControl\bin\Debug\NA020_TabControl.pdb
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA020_TabControl\obj\x86\Debug\NA020_TabControl.frmTabControl.resources
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA020_TabControl\obj\x86\Debug\NA020_TabControl.Properties.Resources.resources
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA020_TabControl\obj\x86\Debug\NA020_TabControl.csproj.GenerateResource.Cache
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA020_TabControl\obj\x86\Debug\NA020_TabControl.exe
+H:\Angel\CompartilhadaVM\GoogleDrive\Unip\POO_II_2017\Projetos\AtividadesPOOII2017\NA020_TabControl\obj\x86\Debug\NA020_TabControl.pdb

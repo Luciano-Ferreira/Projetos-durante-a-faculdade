@@ -1,0 +1,8 @@
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\DataGrid\bin\Debug\NA023_DataGrid.exe
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\DataGrid\bin\Debug\NA023_DataGrid.pdb
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\DataGrid\obj\x86\Debug\NA023_DataGrid.frmDataGrid.resources
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\DataGrid\obj\x86\Debug\NA023_DataGrid.Properties.Resources.resources
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\DataGrid\obj\x86\Debug\DataGrid.csproj.GenerateResource.cache
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\DataGrid\obj\x86\Debug\DataGrid.csproj.CoreCompileInputs.cache
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\DataGrid\obj\x86\Debug\NA023_DataGrid.exe
+H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\DataGrid\obj\x86\Debug\NA023_DataGrid.pdb

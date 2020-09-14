@@ -1,0 +1,12 @@
+BULK
+INSERT tbIBGEMunicipios
+FROM 'H:\GoogleDrive\Ano_2018\S2\ADS\Aula03\Scripts\A04_Municipios.CSV'
+WITH
+(CODEPAGE='ACP',
+FIELDTERMINATOR = ';',
+ROWTERMINATOR = '\n'
+)
+GO
+
+SELECT *
+FROM tbIBGEMunicipios;
